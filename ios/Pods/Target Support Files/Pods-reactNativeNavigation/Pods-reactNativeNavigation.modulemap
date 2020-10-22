@@ -1,0 +1,6 @@
+module Pods_reactNativeNavigation {
+  umbrella header "Pods-reactNativeNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}
